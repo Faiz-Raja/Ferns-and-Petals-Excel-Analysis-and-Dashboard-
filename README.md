@@ -12,4 +12,18 @@ This is a Sales Analysis Interactive Dashboard in Excel, leveraging a dataset so
 7. Which cities place the highest number of orders?
 8. Does a higher order quantity impact delivery times?
 9. How does revenue compare across different occasions?
-10. - Which products are most popular during specific occasions?
+10. Which products are most popular during specific occasions?
+
+---
+**What is the total revenue generated?**
+
+₹35,20,984.00 is the overall revenue generated from 1,000 total orders.
+
+---
+**What is the average time taken for orders to be delivered?**
+
+• **Average Delivery Time:** 5.53 hours from order to delivery.
+
+• This reflects a fast fulfillment cycle, suitable for occasion-driven gifting services
+
+---
