@@ -38,7 +38,7 @@ This is a Sales Analysis Interactive Dashboard in Excel, leveraging a dataset so
 ---
 **Which products generate the highest revenue?**
 
-Top 5 products contributing most to revenue:
+**Top 5 products contributing most to revenue:**
 
 1. Magnum Set
 2. Quia Gift
@@ -63,7 +63,7 @@ The average customer spend is approximately ₹3,520.98, indicating a preference
 ---
 **Which cities place the highest number of orders?**
 
-Cities with the highest number of orders:
+**Cities with the highest number of orders:**
 
 • Imphal, Kayal, Dharapur, and Bhopal top the list.
 
@@ -89,7 +89,7 @@ Holi also performs well, likely due to regional cultural preferences.
 ---
 **Which products are most popular during specific occasions?**
 
-This insight requires further filtering, but based on revenue patterns:
+**This insight requires further filtering, but based on revenue patterns:**
 
 • Cakes, sweets, and soft toys dominate categories across occasions.
 
